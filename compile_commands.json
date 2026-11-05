@@ -1,0 +1,42 @@
+[
+  {
+    "directory": "C:/Users/sridh/Desktop/ds app",
+    "command": "C:/msys64/ucrt64/bin/gcc.exe --target=x86_64-w64-mingw32 -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include -c bst.c",
+    "file": "bst.c"
+  },
+  {
+    "directory": "C:/Users/sridh/Desktop/ds app",
+    "command": "C:/msys64/ucrt64/bin/gcc.exe --target=x86_64-w64-mingw32 -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include -c heap.c",
+    "file": "heap.c"
+  },
+  {
+    "directory": "C:/Users/sridh/Desktop/ds app",
+    "command": "C:/msys64/ucrt64/bin/gcc.exe --target=x86_64-w64-mingw32 -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include -c persistence.c",
+    "file": "persistence.c"
+  },
+  {
+    "directory": "C:/Users/sridh/Desktop/ds app",
+    "command": "C:/msys64/ucrt64/bin/gcc.exe --target=x86_64-w64-mingw32 -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include -c controller.c",
+    "file": "controller.c"
+  },
+  {
+    "directory": "C:/Users/sridh/Desktop/ds app",
+    "command": "C:/msys64/ucrt64/bin/gcc.exe --target=x86_64-w64-mingw32 -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include -c main.c",
+    "file": "main.c"
+  },
+  {
+    "directory": "C:/Users/sridh/Desktop/ds app",
+    "command": "C:/msys64/ucrt64/bin/gcc.exe --target=x86_64-w64-mingw32 -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include -c test_bst.c",
+    "file": "test_bst.c"
+  },
+  {
+    "directory": "C:/Users/sridh/Desktop/ds app",
+    "command": "C:/msys64/ucrt64/bin/gcc.exe --target=x86_64-w64-mingw32 -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include -c test_heap.c",
+    "file": "test_heap.c"
+  },
+  {
+    "directory": "C:/Users/sridh/Desktop/ds app",
+    "command": "C:/msys64/ucrt64/bin/gcc.exe --target=x86_64-w64-mingw32 -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include -c test_controller.c",
+    "file": "test_controller.c"
+  }
+]

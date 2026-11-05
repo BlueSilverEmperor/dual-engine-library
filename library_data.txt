@@ -1,0 +1,10 @@
+101|The C Programming Language|Kernighan & Ritchie|20260920|0
+102|Introduction to Algorithms|Cormen, Leiserson|20261015|0
+103|Clean Code|Robert C. Martin|20260910|1
+104|Design Patterns|Gang of Four|20260925|0
+105|Computer Systems: A Programmer's Perspective|Bryant & O'Hallaron|20260905|1
+110|Code Unix|Steven |20261024|0
+107|Heaven|Steve Jobs|20260930|0
+106|Operating System Concepts|Silberschatz|20261101|0
+108|Power|Stewart|20260930|0
+109|wimpy kid|jeff kinney|20261023|0

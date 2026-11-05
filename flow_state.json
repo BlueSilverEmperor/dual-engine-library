@@ -1,0 +1,10 @@
+{
+  "lastAction": "SHUTDOWN",
+  "details": "Application shutting down, memory freed",
+  "activeNode": "persistence",
+  "activeStep": 5,
+  "timestamp": "2026-10-13 10:00:36",
+  "stats": {
+    "totalBooks": 0
+  }
+}

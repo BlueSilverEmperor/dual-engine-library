@@ -1,0 +1,13 @@
+# Object files
+*.o
+*.obj
+
+# Editor & build caches
+.cache/
+.vscode/
+
+# Environment / Secrets
+.env
+
+# Office temporary lock files
+~$*
